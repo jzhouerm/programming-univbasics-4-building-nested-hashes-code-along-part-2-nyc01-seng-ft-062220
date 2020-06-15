@@ -68,6 +68,5 @@ def add_characters
      { name: "Prince Escalus" },
      { name: "Apothecary" }
    ]
-   }
- end
+   
 end
