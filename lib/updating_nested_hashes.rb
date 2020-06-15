@@ -68,4 +68,5 @@ def add_characters
      { name: "Prince Escalus" },
      { name: "Apothecary" }
      ]
+    epic_tragedy
 end
