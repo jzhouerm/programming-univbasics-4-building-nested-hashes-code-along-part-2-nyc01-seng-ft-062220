@@ -69,4 +69,5 @@ def add_characters
      { name: "Apothecary" }
    ]
    }
+ end
 end
